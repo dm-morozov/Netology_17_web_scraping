@@ -17,18 +17,14 @@
 1. Клонируйте репозиторий:
     
     ```
-    
-    git clone <URL-репозитория>
-    cd <имя-репозитория>
-    
+    git clone https://github.com/dm-morozov/Netology_17_web_scraping
+    cd Netology_17_web_scraping
     ```
     
 2. Установите зависимости:
     
     ```
-    
     pip install -r requirements.txt
-    
     ```
     
 
@@ -69,25 +65,19 @@ JSON-файл, содержащий информацию о собранных �
 1. Для запуска скрипта `home_work.py` выполните:
     
     ```
-
     python home_work.py
-    
     ```
     
 2. Для запуска скрипта `class_work.py` выполните:
     
     ```
-
     python class_work.py
-    
     ```
     
 3. Для запуска скрипта `class_work_selenium_hubr.py` выполните:
     
     ```
-
     python class_work_selenium_hubr.py
-    
     ```
     
 
